@@ -1,0 +1,2 @@
+# SimpleQRMaker-Support
+SimpleQRMaker-Support
